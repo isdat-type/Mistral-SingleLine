@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal.lf" format="2">
+  <advance width="474"/>
+  <outline>
+    <contour identifier="ID0x103563860">
+      <point x="402" y="133" type="move"/>
+      <point x="316" y="190"/>
+      <point x="149" y="287"/>
+      <point x="50" y="337" type="curve"/>
+      <point x="50" y="344" type="line"/>
+      <point x="150" y="388"/>
+      <point x="322" y="470"/>
+      <point x="397" y="512" type="curve"/>
+    </contour>
+    <contour>
+      <point x="383" y="148" type="move"/>
+      <point x="403" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="145" type="move"/>
+      <point x="402" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="26" type="move"/>
+      <point x="147" y="29"/>
+      <point x="308" y="27"/>
+      <point x="404" y="20" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|greater.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|greater.lf</string>
+    </dict>
+  </lib>
+</glyph>

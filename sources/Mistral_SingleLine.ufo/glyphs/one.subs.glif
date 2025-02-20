@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.subs" format="2">
+  <advance width="137"/>
+  <outline>
+    <contour identifier="ID0x120dffd90">
+      <point x="-30" y="73" type="move"/>
+      <point x="7" y="109"/>
+      <point x="51" y="147"/>
+      <point x="94" y="183" type="curve"/>
+    </contour>
+    <contour>
+      <point x="94" y="183" type="move"/>
+      <point x="97" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="181" type="move"/>
+      <point x="87" y="112"/>
+      <point x="65" y="7"/>
+      <point x="33" y="-105" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=one.lf-60</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.lf</string>
+    </dict>
+  </lib>
+</glyph>

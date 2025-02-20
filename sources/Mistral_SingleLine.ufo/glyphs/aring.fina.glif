@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.fina" format="2">
+  <advance width="468"/>
+  <anchor x="209" y="23" name="bottom"/>
+  <anchor x="430" y="12" name="ogonek"/>
+  <anchor x="313" y="532" name="top"/>
+  <outline>
+    <contour identifier="ID0x120df5db0">
+      <point x="0" y="111" type="move"/>
+      <point x="17" y="128" type="line" smooth="yes"/>
+      <point x="97" y="208"/>
+      <point x="191" y="283"/>
+      <point x="297" y="352" type="curve"/>
+    </contour>
+    <contour>
+      <point x="297" y="352" type="move"/>
+      <point x="299" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="350" type="move"/>
+      <point x="190" y="269"/>
+      <point x="41" y="124"/>
+      <point x="41" y="55" type="curve" smooth="yes"/>
+      <point x="41" y="40"/>
+      <point x="48" y="31"/>
+      <point x="62" y="31" type="curve" smooth="yes"/>
+      <point x="92" y="31"/>
+      <point x="159" y="71"/>
+      <point x="275" y="197" type="curve"/>
+    </contour>
+    <contour>
+      <point x="275" y="197" type="move"/>
+      <point x="318" y="93"/>
+      <point x="380" y="28"/>
+      <point x="498" y="-20" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="312" y="508" type="move"/>
+      <point x="269" y="508"/>
+      <point x="236" y="489"/>
+      <point x="236" y="461" type="curve" smooth="yes"/>
+      <point x="236" y="434"/>
+      <point x="268" y="414"/>
+      <point x="315" y="414" type="curve" smooth="yes"/>
+      <point x="367" y="414"/>
+      <point x="401" y="438"/>
+      <point x="401" y="468" type="curve" smooth="yes"/>
+      <point x="401" y="497"/>
+      <point x="368" y="520"/>
+      <point x="314" y="520" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

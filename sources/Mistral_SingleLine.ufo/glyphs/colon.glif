@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="189"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="107" y="322" type="move"/>
+      <point x="116" y="317"/>
+      <point x="119" y="309"/>
+      <point x="119" y="302" type="curve" smooth="yes"/>
+      <point x="119" y="279"/>
+      <point x="89" y="249"/>
+      <point x="70" y="232" type="curve"/>
+    </contour>
+    <contour>
+      <point x="107" y="100" type="move"/>
+      <point x="116" y="95"/>
+      <point x="119" y="87"/>
+      <point x="119" y="80" type="curve" smooth="yes"/>
+      <point x="119" y="57"/>
+      <point x="89" y="27"/>
+      <point x="70" y="10" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>period</string>
+    </dict>
+  </lib>
+</glyph>

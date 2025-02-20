@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.subs" format="2">
+  <advance width="151"/>
+  <outline>
+    <contour identifier="ID0x120d8e5f0">
+      <point x="-16" y="163" type="move"/>
+      <point x="10" y="177"/>
+      <point x="40" y="187"/>
+      <point x="71" y="187" type="curve" smooth="yes"/>
+      <point x="91" y="187"/>
+      <point x="105" y="183"/>
+      <point x="105" y="170" type="curve" smooth="yes"/>
+      <point x="105" y="146"/>
+      <point x="57" y="80"/>
+      <point x="19" y="35" type="curve"/>
+    </contour>
+    <contour>
+      <point x="19" y="35" type="move"/>
+      <point x="19" y="33" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="33" type="move"/>
+      <point x="67" y="19"/>
+      <point x="113" y="-2"/>
+      <point x="113" y="-23" type="curve" smooth="yes"/>
+      <point x="113" y="-48"/>
+      <point x="48" y="-93"/>
+      <point x="-30" y="-115" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=three.lf-60</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>three.lf</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0327" format="2">
+  <advance width="0"/>
+  <unicode hex="0327"/>
+  <anchor x="62" y="0" name="_bottom"/>
+  <anchor x="62" y="-171" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="move"/>
+      <point x="48" y="-50"/>
+      <point x="21" y="-126"/>
+      <point x="-2" y="-181" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

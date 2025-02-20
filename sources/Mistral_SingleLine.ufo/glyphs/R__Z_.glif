@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R_Z" format="2">
+  <advance width="826"/>
+  <anchor x="668" y="-3" name="bottom_1"/>
+  <anchor x="668" y="410" name="center_1"/>
+  <anchor x="668" y="580" name="top_1"/>
+  <outline>
+    <contour>
+      <point x="179" y="449" type="move"/>
+      <point x="160" y="298"/>
+      <point x="135" y="147"/>
+      <point x="102" y="-4" type="curve"/>
+    </contour>
+    <contour identifier="ID0x1203831e0">
+      <point x="532" y="578" type="move"/>
+      <point x="552" y="582"/>
+      <point x="577" y="586"/>
+      <point x="613" y="586" type="curve" smooth="yes"/>
+      <point x="694" y="586"/>
+      <point x="799" y="566"/>
+      <point x="799" y="512" type="curve" smooth="yes"/>
+      <point x="799" y="466"/>
+      <point x="722" y="366"/>
+      <point x="645" y="268" type="curve" smooth="yes"/>
+      <point x="568" y="170"/>
+      <point x="488" y="75"/>
+      <point x="476" y="56" type="curve" smooth="yes"/>
+      <point x="467" y="42"/>
+      <point x="463" y="31"/>
+      <point x="463" y="23" type="curve" smooth="yes"/>
+      <point x="463" y="9"/>
+      <point x="475" y="2"/>
+      <point x="504" y="2" type="curve" smooth="yes"/>
+      <point x="557" y="2"/>
+      <point x="692" y="26"/>
+      <point x="826" y="111" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="102" y="-4" type="move"/>
+      <point x="124" y="215"/>
+      <point x="134" y="403"/>
+      <point x="130" y="566" type="curve"/>
+      <point x="162" y="570"/>
+      <point x="190" y="572"/>
+      <point x="211" y="572" type="curve" smooth="yes"/>
+      <point x="322" y="572"/>
+      <point x="434" y="519"/>
+      <point x="434" y="451" type="curve" smooth="yes"/>
+      <point x="434" y="358"/>
+      <point x="228" y="263"/>
+      <point x="80" y="216" type="curve"/>
+      <point x="180" y="140"/>
+      <point x="276" y="75"/>
+      <point x="412" y="-5" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H+15</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Z</string>
+    </dict>
+  </lib>
+</glyph>

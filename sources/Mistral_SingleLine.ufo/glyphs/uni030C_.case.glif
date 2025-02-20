@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C.case" format="2">
+  <advance width="0"/>
+  <anchor x="125" y="580" name="_top"/>
+  <anchor x="125" y="767" name="top"/>
+  <outline>
+    <contour>
+      <point x="222" y="728" type="move"/>
+      <point x="185" y="707"/>
+      <point x="146" y="689"/>
+      <point x="116" y="677" type="curve"/>
+      <point x="86" y="689"/>
+      <point x="47" y="707"/>
+      <point x="10" y="728" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.lf" format="2">
+  <advance width="474"/>
+  <outline>
+    <contour>
+      <point x="230" y="57" type="move"/>
+      <point x="238" y="176"/>
+      <point x="246" y="336"/>
+      <point x="250" y="472" type="curve"/>
+    </contour>
+    <contour>
+      <point x="424" y="269" type="move"/>
+      <point x="304" y="273"/>
+      <point x="169" y="266"/>
+      <point x="50" y="257" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

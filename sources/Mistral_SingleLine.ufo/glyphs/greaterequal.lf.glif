@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal.lf" format="2">
+  <advance width="474"/>
+  <outline>
+    <contour identifier="ID0x103563370">
+      <point x="77" y="512" type="move"/>
+      <point x="152" y="470"/>
+      <point x="324" y="388"/>
+      <point x="424" y="344" type="curve"/>
+      <point x="424" y="337" type="line"/>
+      <point x="325" y="287"/>
+      <point x="158" y="190"/>
+      <point x="72" y="133" type="curve"/>
+    </contour>
+    <contour>
+      <point x="71" y="145" type="move"/>
+      <point x="91" y="148" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="133" type="move"/>
+      <point x="71" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="26" type="move"/>
+      <point x="327" y="29"/>
+      <point x="166" y="27"/>
+      <point x="70" y="20" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>greater.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>greater.lf</string>
+    </dict>
+  </lib>
+</glyph>

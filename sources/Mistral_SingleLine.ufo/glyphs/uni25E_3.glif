@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25E3" format="2">
+  <advance width="624"/>
+  <unicode hex="25E3"/>
+  <outline>
+    <contour identifier="ID0x10356b6c0">
+      <point x="61" y="210" type="move"/>
+      <point x="136" y="140"/>
+      <point x="225" y="52"/>
+      <point x="312" y="-40" type="curve"/>
+    </contour>
+    <contour>
+      <point x="312" y="504" type="move"/>
+      <point x="214" y="414"/>
+      <point x="122" y="322"/>
+      <point x="40" y="232" type="curve"/>
+    </contour>
+    <contour>
+      <point x="312" y="-40" type="move"/>
+      <point x="398" y="52"/>
+      <point x="490" y="143"/>
+      <point x="584" y="232" type="curve"/>
+    </contour>
+    <contour>
+      <point x="584" y="232" type="move"/>
+      <point x="491" y="322"/>
+      <point x="400" y="413"/>
+      <point x="312" y="504" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.lf" format="2">
+  <advance width="473"/>
+  <outline>
+    <contour>
+      <point x="76" y="513" type="move"/>
+      <point x="151" y="460"/>
+      <point x="323" y="358"/>
+      <point x="423" y="303" type="curve"/>
+      <point x="423" y="294" type="line"/>
+      <point x="324" y="231"/>
+      <point x="157" y="110"/>
+      <point x="71" y="39" type="curve"/>
+    </contour>
+    <contour>
+      <point x="70" y="54" type="move"/>
+      <point x="90" y="58" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="39" type="move"/>
+      <point x="70" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

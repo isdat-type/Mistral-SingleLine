@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="339"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="40" y="6" type="move"/>
+      <point x="108" y="9"/>
+      <point x="209" y="7"/>
+      <point x="279" y="0" type="curve"/>
+    </contour>
+    <contour identifier="ID0x103512950">
+      <point x="278" y="54" type="move"/>
+      <point x="220" y="92"/>
+      <point x="107" y="158"/>
+      <point x="40" y="192" type="curve"/>
+      <point x="40" y="197" type="line"/>
+      <point x="108" y="227"/>
+      <point x="224" y="282"/>
+      <point x="275" y="311" type="curve"/>
+    </contour>
+    <contour>
+      <point x="265" y="64" type="move"/>
+      <point x="279" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="62" type="move"/>
+      <point x="278" y="54" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|greater</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|greater</string>
+    </dict>
+  </lib>
+</glyph>

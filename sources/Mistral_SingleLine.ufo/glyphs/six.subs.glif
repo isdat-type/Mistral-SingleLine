@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.subs" format="2">
+  <advance width="235"/>
+  <outline>
+    <contour>
+      <point x="195" y="212" type="move"/>
+      <point x="119" y="152"/>
+      <point x="50" y="69"/>
+      <point x="50" y="-1" type="curve" smooth="yes"/>
+      <point x="50" y="-53"/>
+      <point x="95" y="-104"/>
+      <point x="143" y="-104" type="curve" smooth="yes"/>
+      <point x="176" y="-104"/>
+      <point x="190" y="-79"/>
+      <point x="190" y="-56" type="curve" smooth="yes"/>
+      <point x="190" y="-21"/>
+      <point x="157" y="20"/>
+      <point x="108" y="59" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>six.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>six.lf</string>
+    </dict>
+  </lib>
+</glyph>

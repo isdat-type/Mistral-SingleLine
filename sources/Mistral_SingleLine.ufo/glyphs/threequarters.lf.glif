@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters.lf" format="2">
+  <advance width="734"/>
+  <outline>
+    <contour identifier="ID0x120dff170">
+      <point x="84" y="549" type="move"/>
+      <point x="115" y="565"/>
+      <point x="152" y="577"/>
+      <point x="189" y="577" type="curve" smooth="yes"/>
+      <point x="213" y="577"/>
+      <point x="229" y="573"/>
+      <point x="229" y="557" type="curve" smooth="yes"/>
+      <point x="229" y="528"/>
+      <point x="172" y="449"/>
+      <point x="126" y="395" type="curve"/>
+    </contour>
+    <contour>
+      <point x="126" y="395" type="move"/>
+      <point x="127" y="393" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="393" type="move"/>
+      <point x="184" y="376"/>
+      <point x="240" y="351"/>
+      <point x="240" y="325" type="curve" smooth="yes"/>
+      <point x="240" y="295"/>
+      <point x="162" y="241"/>
+      <point x="68" y="214" type="curve"/>
+    </contour>
+    <contour>
+      <point x="642" y="255" type="move"/>
+      <point x="622" y="170"/>
+      <point x="604" y="71"/>
+      <point x="589" y="-48" type="curve"/>
+    </contour>
+    <contour>
+      <point x="516" y="307" type="move"/>
+      <point x="524" y="326"/>
+      <point x="537" y="349"/>
+      <point x="548" y="363" type="curve"/>
+      <point x="553" y="362" type="line"/>
+      <point x="513" y="283"/>
+      <point x="485" y="199"/>
+      <point x="485" y="134" type="curve" smooth="yes"/>
+      <point x="485" y="108"/>
+      <point x="490" y="85"/>
+      <point x="541" y="85" type="curve" smooth="yes"/>
+      <point x="573" y="85"/>
+      <point x="632" y="94"/>
+      <point x="684" y="116" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="195" y="-50" type="move"/>
+      <point x="273" y="160"/>
+      <point x="442" y="413"/>
+      <point x="521" y="622" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

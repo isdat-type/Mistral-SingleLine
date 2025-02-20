@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B9" format="2">
+  <advance width="197"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour identifier="ID0x120d3bf10">
+      <point x="30" y="459" type="move"/>
+      <point x="67" y="495"/>
+      <point x="111" y="533"/>
+      <point x="154" y="569" type="curve"/>
+    </contour>
+    <contour>
+      <point x="154" y="569" type="move"/>
+      <point x="157" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="567" type="move"/>
+      <point x="147" y="498"/>
+      <point x="125" y="393"/>
+      <point x="93" y="281" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.lf</string>
+    </dict>
+  </lib>
+</glyph>

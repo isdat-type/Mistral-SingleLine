@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C.alt" format="2">
+  <advance width="0"/>
+  <anchor x="39" y="622" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="39" y="622" type="move"/>
+      <point x="51" y="618"/>
+      <point x="59" y="606"/>
+      <point x="59" y="591" type="curve" smooth="yes"/>
+      <point x="59" y="570"/>
+      <point x="42" y="521"/>
+      <point x="10" y="473" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

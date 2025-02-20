@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.lf" format="2">
+  <advance width="504"/>
+  <outline>
+    <contour>
+      <point x="157" y="68" type="move"/>
+      <point x="336" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="345" type="move"/>
+      <point x="324" y="349"/>
+      <point x="189" y="342"/>
+      <point x="70" y="333" type="curve"/>
+    </contour>
+    <contour>
+      <point x="434" y="195" type="move"/>
+      <point x="314" y="199"/>
+      <point x="179" y="192"/>
+      <point x="60" y="183" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>equal.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>equal.lf</string>
+    </dict>
+  </lib>
+</glyph>

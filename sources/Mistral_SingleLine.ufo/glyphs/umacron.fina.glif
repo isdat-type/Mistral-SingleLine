@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacron.fina" format="2">
+  <advance width="407"/>
+  <anchor x="123" y="6" name="bottom"/>
+  <anchor x="402" y="-43" name="ogonek"/>
+  <anchor x="269" y="472" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="111" type="move"/>
+      <point x="21" y="132" type="line" smooth="yes"/>
+      <point x="63" y="174"/>
+      <point x="109" y="234"/>
+      <point x="150" y="299" type="curve"/>
+    </contour>
+    <contour>
+      <point x="150" y="299" type="move"/>
+      <point x="108" y="225"/>
+      <point x="82" y="134"/>
+      <point x="82" y="76" type="curve" smooth="yes"/>
+      <point x="82" y="32"/>
+      <point x="97" y="6"/>
+      <point x="123" y="6" type="curve" smooth="yes"/>
+      <point x="179" y="6"/>
+      <point x="268" y="124"/>
+      <point x="321" y="215" type="curve"/>
+    </contour>
+    <contour>
+      <point x="321" y="215" type="move"/>
+      <point x="321" y="91"/>
+      <point x="358" y="-4"/>
+      <point x="437" y="-75" type="curve"/>
+    </contour>
+    <contour>
+      <point x="379" y="472" type="move"/>
+      <point x="311" y="460"/>
+      <point x="225" y="460"/>
+      <point x="158" y="472" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

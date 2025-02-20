@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25FB" format="2">
+  <advance width="627"/>
+  <unicode hex="25FB"/>
+  <outline>
+    <contour identifier="ID0x10356a910">
+      <point x="82" y="434" type="move"/>
+      <point x="79" y="302"/>
+      <point x="79" y="154"/>
+      <point x="82" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="82" y="0" type="move"/>
+      <point x="236" y="6"/>
+      <point x="391" y="6"/>
+      <point x="546" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="546" y="0" type="move"/>
+      <point x="548" y="154"/>
+      <point x="548" y="310"/>
+      <point x="546" y="464" type="curve"/>
+    </contour>
+    <contour>
+      <point x="546" y="464" type="move"/>
+      <point x="391" y="474"/>
+      <point x="236" y="474"/>
+      <point x="82" y="464" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00B3" format="2">
+  <advance width="211"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour identifier="ID0x120d300f0">
+      <point x="44" y="544" type="move"/>
+      <point x="70" y="558"/>
+      <point x="100" y="568"/>
+      <point x="131" y="568" type="curve" smooth="yes"/>
+      <point x="151" y="568"/>
+      <point x="165" y="564"/>
+      <point x="165" y="551" type="curve" smooth="yes"/>
+      <point x="165" y="527"/>
+      <point x="117" y="461"/>
+      <point x="79" y="416" type="curve"/>
+    </contour>
+    <contour>
+      <point x="79" y="416" type="move"/>
+      <point x="79" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="414" type="move"/>
+      <point x="127" y="400"/>
+      <point x="173" y="379"/>
+      <point x="173" y="358" type="curve" smooth="yes"/>
+      <point x="173" y="333"/>
+      <point x="108" y="288"/>
+      <point x="30" y="266" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>three.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>three.lf</string>
+    </dict>
+  </lib>
+</glyph>

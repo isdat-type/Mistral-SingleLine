@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction.lf" format="2">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="30" y="-50" type="move"/>
+      <point x="108" y="160"/>
+      <point x="277" y="413"/>
+      <point x="356" y="622" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.lf" format="2">
+  <advance width="379"/>
+  <outline>
+    <contour>
+      <point x="339" y="624" type="move"/>
+      <point x="188" y="503"/>
+      <point x="50" y="337"/>
+      <point x="50" y="198" type="curve" smooth="yes"/>
+      <point x="50" y="93"/>
+      <point x="140" y="-8"/>
+      <point x="235" y="-8" type="curve" smooth="yes"/>
+      <point x="301" y="-8"/>
+      <point x="329" y="41"/>
+      <point x="329" y="87" type="curve" smooth="yes"/>
+      <point x="329" y="158"/>
+      <point x="264" y="239"/>
+      <point x="165" y="318" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

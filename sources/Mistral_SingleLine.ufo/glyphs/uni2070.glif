@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2070" format="2">
+  <advance width="271"/>
+  <unicode hex="2070"/>
+  <outline>
+    <contour>
+      <point x="105" y="568" type="move"/>
+      <point x="86" y="514"/>
+      <point x="75" y="469"/>
+      <point x="75" y="408" type="curve" smooth="yes"/>
+      <point x="75" y="328"/>
+      <point x="96" y="291"/>
+      <point x="124" y="291" type="curve" smooth="yes"/>
+      <point x="166" y="291"/>
+      <point x="221" y="375"/>
+      <point x="221" y="483" type="curve" smooth="yes"/>
+      <point x="221" y="544"/>
+      <point x="202" y="577"/>
+      <point x="168" y="577" type="curve" smooth="yes"/>
+      <point x="147" y="577"/>
+      <point x="123" y="565"/>
+      <point x="103" y="540" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.lf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero.lf</string>
+    </dict>
+  </lib>
+</glyph>
