@@ -1,5 +1,5 @@
 {
-.appVersion = "3337";
+.appVersion = "3343";
 .formatVersion = 3;
 classes = (
 {
@@ -34927,7 +34927,7 @@ instances = (
 customParameters = (
 {
 name = Filter;
-value = "Noodler; 20.0; 1; 1";
+value = "Noodler; 30.0; 1; 1";
 }
 );
 instanceInterpolations = {
@@ -35872,5 +35872,5 @@ userData = {
 GSDontShowVersionAlert = 1;
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
